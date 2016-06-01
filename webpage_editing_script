@@ -1,0 +1,9 @@
+# Live-Webpage-Editing-Java-Script
+In the repository i will describe a java script which allows you to edit a live webpage.
+
+ So here is the kjava script below just copy and paste in the address bar on the page you wish to edit 
+ and now you can go for the changes you wana make.
+ 
+ _______________________________________________________________________________________________
+javascript: document.body.contentEditable = 'true'; document.designMode = 'on'; void 0
+________________________________________________________________________________________________
